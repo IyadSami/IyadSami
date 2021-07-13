@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IyadSami
-- 👀 I’m interested in python,ML,AI and Mobile apps devlopment.
+- 👀 I’m interested in python,ML,AI and Mobile apps development.
 - 🌱 I’m currently learning Flutter and python.
 
 <!---
